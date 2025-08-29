@@ -10,7 +10,7 @@
 	<table>
 	<tr>
 		<td> <p><a href="https://artsci.tamu.edu/statistics/index.html">Link to TAMU Stats Dept. Website</a></p> </td>
-		<td> <img width=250 src="C:\Users\traci\Downloads\TraciEllsworth.jpg"/> </td>
+		<td> <img width=250 src="TraciEllsworth.jpg"/> </td>
 	</tr>
 	<tr>
 		<td> 
