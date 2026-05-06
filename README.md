@@ -3,7 +3,7 @@
 
 <hr />
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a statistics graduate student transitioning into data science with a focus on projects and roles that serve a clear public good. I bring with me 7 years of professional experience in two very different worlds: marketing and teaching.
 
@@ -24,7 +24,7 @@ Most recently, I worked for 4 years as a high school math teacher. This has been
 
 <hr />
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 | **Category**       | **Tools / Skills** |
 |--------------------|--------------------|
@@ -35,20 +35,20 @@ Most recently, I worked for 4 years as a high school math teacher. This has been
 
 <hr />
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📊 [Project 1: ](https://github.com/Traci-Ellsworth/project1)
+### [Project 1: ](https://github.com/Traci-Ellsworth/project1)
 > Project 1 Description
 
-### 📈 [Project 2: ](https://github.com/Traci-Ellsworth/project2)
+### [Project 2: ](https://github.com/Traci-Ellsworth/project2)
 > Project 2 Description
 
-### 🧪 [Project 3: ](https://github.com/Traci-Ellsworth/project3)
+### [Project 3: ](https://github.com/Traci-Ellsworth/project3)
 > Project 3 Description
 
 <hr />
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Traci-Ellsworth&show_icons=true&theme=default" width="48%" />
@@ -60,6 +60,6 @@ Most recently, I worked for 4 years as a high school math teacher. This has been
 <hr />
 
 <p align="center">
-  **Email:** traci.h.ellsworth@gmail.com
-  <a href="https://linkedin.com/in/traci-h-ellsworth">LinkedIn</a> • 
+  <b>Email:</b> traci.h.ellsworth@gmail.com
+  <a href="https://linkedin.com/in/traci-h-ellsworth">LinkedIn</a>
 </p>
